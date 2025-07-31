@@ -19,5 +19,5 @@ Use them when you want AI to:
 
 ## 📂 Structure
 
-Each prompt is stored as a standalone `.md` file:
+Each prompt is stored as a standalone `.md` file.
 
